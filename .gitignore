@@ -1,1 +1,3 @@
 packages/bootstrap
+.meteor/local
+.meteor/meteorite
